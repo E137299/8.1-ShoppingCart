@@ -47,6 +47,12 @@ public class ShoppingCart{
 
 
 
+	
+	/*
+	getTotalPrice: returns the total price of the ShoppingCart
+	 */
+
+
 
 	
 
