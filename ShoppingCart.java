@@ -8,7 +8,7 @@ import java.text.NumberFormat;
 
 public class ShoppingCart{
 	/*
-	ATTRIBUTES: itemCount, totalPrice, capacity, cart(ArrayList)
+	ATTRIBUTES: 
 	- itemCount: total number of items in the cart
 	- totalPrice: total price of items in the cart
 	- capacity: current cart capacity
