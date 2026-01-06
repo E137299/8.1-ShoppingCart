@@ -2,7 +2,7 @@
 
 
 
-In this exercise you will complete a class that implements a shopping cart as an array of items. The file Item.java contains the definition of a class named Item that models an item one would purchase. An item has a name, price, and quantity (the quantity purchased). The file ShoppingCart.java implements the shopping cart as an arraylist of Item objects.
+In this exercise you will create a class that implements a shopping cart as an array of items. The file Item.java contains the definition of a class named Item that models an item one would purchase. An item has a name, price, and quantity (the quantity purchased). The file ShoppingCart.java implements the shopping cart as an arraylist of Item objects.
 
 1. Complete the ShoppingCart class by doing the following:
 - Declare an instance variable cart to be an arraylist of Items and instantiate cart in the constructor to be an array holding capacity Items.
